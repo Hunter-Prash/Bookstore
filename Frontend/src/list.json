@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"The Great Gatsby",
+        "price":15.99,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+    },
+
+{
+    "id":2,
+    "name":"Drama Book",
+    "title":"Romeo and Juliet",
+    "price":12.99,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":3,
+    "name":"Horror Book",
+    "title":"The Shining",
+    "price":9.99,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":4,
+    "name":"Mystery Book",
+    "title":"The Girl with the Dragon Tattoo",
+    "price":14.99,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":5,
+    "name":"Food Book",
+    "title":"The Joy of Cooking",
+    "price":19.99,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":6,
+    "name":"Thriller Book",
+    "title":"Gone Girl",
+    "price":13.99,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":7,
+    "name":"Science Fiction Book",
+    "title":"Dune",
+    "price":16.99,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":8,
+    "name":"Fantasy Book",
+    "title":"The Lord of the Rings",
+    "price":18.99,
+    "category":"Paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":9,
+    "name":"Historical Book",
+    "title":"The Diary of a Young Girl",
+    "price":11.99,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+},
+{
+    "id":10,
+    "name":"Adventure Book",
+    "title":"The Hunger Games",
+    "price":17.99,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1728866958~exp=1728870558~hmac=5dd87343a2d92bd89ab51065c8160056251a577261907b803a39ed5d05d7300a&w=740"
+}
+]
